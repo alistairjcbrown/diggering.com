@@ -1,4 +1,4 @@
-diggering.com
+Diggering.com
 =============
 
-Code running http://diggering.com/
+Code running http://www.diggering.com
